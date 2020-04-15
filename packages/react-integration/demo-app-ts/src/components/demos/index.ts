@@ -109,6 +109,7 @@ export * from './TableDemo/TableHeadersWrappableDemo';
 export * from './TableDemo/TableRowWrapperDemo';
 export * from './TableDemo/TableRowClickDemo';
 export * from './TableDemo/TableSelectableDemo';
+export * from './TableDemo/TableSelectableExpandableDemo';
 export * from './TableDemo/TableSimpleActionsDemo';
 export * from './TableDemo/TableSimpleDemo';
 export * from './TableDemo/TableSortableDemo';

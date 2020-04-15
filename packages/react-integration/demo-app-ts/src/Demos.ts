@@ -567,6 +567,11 @@ export const Demos: DemoInterface[] = [
     componentType: Examples.TableSelectableDemo
   },
   {
+    id: 'table-selectable-expandable-demo',
+    name: 'Table Selectable Expandable Demo',
+    componentType: Examples.TableSelectableExpandableDemo
+  },
+  {
     id: 'table-simple-actions-demo',
     name: 'Table Simple Actions Demo',
     componentType: Examples.TableSimpleActionsDemo
